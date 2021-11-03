@@ -1,0 +1,76 @@
+<<!DOCTYPE html>
+<html>
+<head>
+	<title>Kollam</title>
+	<style>
+		@media only screen and (max-width: 480px) {
+			img {
+				width: 100%;
+				}
+		}
+		@media only screen and (min-width: 600px) {
+			img {
+				height: 400px;
+				}
+		}
+	</style>
+</head>
+<body style="background-color:black;font-family: Calibri, sans-serif;">
+	<h4 style="color: white;">1)Ashtamudi lake</h4>
+				<img src="https://images.thrillophilia.com/image/upload/s--rfpcB66l--/c_fill,g_auto,h_450,w_753/dpr_1.5/v1/attractions/images/000/005/787/original/1584705313_shutterstock_726107248.jpg.jpg">
+				<p style="color: white;">
+					The incredible beauty of Kerala, Ashtamudi lake has eight branches that coincide with the Arabian sea after converging into one channel, hence the name Ashtamudi, where Ashta means eight and mudi means branch.
+
+					Spell-binding the travelers with its inarticulate and persuasive charm, this second largest lake in Kerala is one of the most popular places to visit in Kollam. Beautifying the banks of this lake, palm and coconut trees, intensifies the fascinating experience of calm and lush green waterways.
+
+					Thriving harmoniously in Kollam district of Kerala, Ashtamudi lake immerses the tourists with tremendous pleasure by granting them an experience of houseboat cruising.<br>
+
+					Things to do - Backwater Cruising, Fishing, Experience unimaginable stay in a houseboat, Island visit.<br>
+
+					Price - Coasting by houseboat will start from INR 2500.<br>
+
+					Timings - Welcome travelers 24 hours preferred timing by travelers from 10:00 am to 6:00 pm.<br>
+					Location - Kollam, district of Kerala<br>
+				</p>
+				<h4 style="color: white;">2)Kollam beach  </h4>
+				<img src="https://images.thrillophilia.com/image/upload/s--38tzGNaA--/c_fill,g_auto,h_450,w_753/dpr_1.5/v1/attractions/images/000/005/789/original/1584705795_shutterstock_1622435974.jpg.jpg">
+				<p style="color: white;">
+					The beauty of Kollam beach makes it a vantage point to unwind and relish its picturesque landscape. The mysterious view of natural blue waters blending with the infinite bright sky bequeaths the sightseers amazed. The Kollam beach calls to rejuvenate the mind and body, energising the tourists with its cultural and spiritual aura.
+
+					This beach is famous among some travelers with the name of Mahatma Gandhi Beach and soothes wanderers with lush green, calm backwaters, and endless water activities.<br>
+					Location:  Kollam, district of Kerala<br>
+					Activities:  Beach fun activities, Swimming, visit nearby Mahatma Gandhi Park. <br> 
+				</p>
+				<h4 style="color: white;">3)Kollam adventure park </h4>
+				<img src="https://images.thrillophilia.com/image/upload/s--iInnxi0o--/c_fill,g_auto,h_450,w_753/dpr_1.5/v1/attractions/images/000/005/791/original/1584706218_shutterstock_1344421250.jpg.jpg">
+				<p style="color: white;">
+					The center of leisure activities for people with no age limit. A must-go-to place for luxurious boating, picnic, and the art museum among other tourist places in Kollam.
+
+					The park encloses a place possessing numerous rides and impressive scenery that makes it ideal for a family picnic. With the alluring backwaters, travelers can enjoy houseboat cruises, deluxe boats, and speedboats in the midst of serene waters. Apart from the boat club, children’s park, this place covers enticements such as a 200-year-old government guest house and Yatri Nivas.
+
+					Also, on the establishment is the art museum, where painting lovers seizes a chance to admire exhibit paintings collected from different parts of the country. And the fun doesn’t end here, a nature dweller can visit the mangroves close to the park to spot endangered species of bushes.<br>
+					Things to do - Boating, Art Museum, yatri Nivas, and vintage guest house, fun activities and rides at the park. <br>
+					Entry fee:  INR 30. <br>
+					Timings - 10:00 am to 6:00 pm.<br>
+				</p>
+				<h4 style="color: white;">4)St Thomas Fort  </h4>
+				<img src="https://images.thrillophilia.com/image/upload/s--Fs0NxTn7--/c_fill,g_auto,h_450,w_753/dpr_1.5/v1/attractions/images/000/005/798/original/1584708332_shutterstock_1404853313.jpg.jpg">
+				<p style="color: white;">
+					The trading center of pepper, also known as Tangasseri fort, this heritage center of Kollam has a rich trade history and culture. Situated in East Tangasseri on the banks of the Arabian sea in Kerala, the fort is 50 feet high and faces the beach. The fort remains as one of the most important archaeological sites in Kollam, attracting tourists to visit this monument and unwind its historical trading link.
+
+					The rustic appearance and lush green surroundings of the fort makes it an excellent point for photography and mesmerises the travellers with its exquisite architecture. If you are a history lover, visit this fort to learn about the Portuguese, the Dutch, and the British rulers.<br>
+					Location:8 km from Kollam<br>
+					Activities: Photography, Unreveal the trading history..
+				</p>
+				<h4 style="color: white;">5)Kakkathuruthu </h4>
+				<img src="https://images.thrillophilia.com/image/upload/s--jbFTaafg--/c_fill,g_auto,h_450,w_753/dpr_1.5/v1/attractions/images/000/005/799/original/1584708456_shutterstock_1232699620.jpg.jpg">
+				<p style="color: white;">
+					A small magnificent island popularly known as the island of crows, it is a prime attraction for bird watchers. The beauty of the island enhanced by coconut trees and paddy fields is breathtaking and doesn’t miss a chance of enticing travelers, be it nature or food lovers. Speaking of food, the place serves a variety of food ranging from Kerala cuisine to seafood such as karimeen, crabs, and shrimp.
+
+					Furthermore, tourists enjoy the view of the setting sun and watching the sky hues, shifting its color from pale blue to crystal clear blue. The sole place in Kerala listed in Nat Geo's magazine for relishing the time of dusk..<br>
+					Location: 10 km from Kollam<br>
+					Activities: Broom making, Boating, Chinese net, Bird watching, Toddy tapping, Shinkari melam, Catnet fishing, Clam meat processing. 
+				</p>	
+				<a href="index.html" style="color: white; background-color: black; display: block; text-align: center;">Back</a>
+</body>
+</html>

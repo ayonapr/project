@@ -1,0 +1,54 @@
+<<!DOCTYPE html>
+<html>
+<head>
+	<title>Kottayam</title>
+	<style>
+		@media only screen and (max-width: 480px) {
+			img {
+				width: 100%;
+				}
+		}
+		@media only screen and (min-width: 600px) {
+			img {
+				height: 400px;
+				}
+		}
+	</style>
+</head>
+<body style="background-color:black;font-family: Calibri, sans-serif;">
+	<h4 style="color: white;">1)Vaikom</h4>
+				<img src="https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2016/02/Vaikom-Beer-House-in-Kottayam.jpg">
+				<p style="color: white;">
+					Vaikom is one of the popular places around Kottayam mainly due to its variety of tourist attractions. It is home to some of the most scenic backwaters of Kerala like Kumarakom and houses rich historical places and heritage temples that add an old-world charm to it. Its serenity and simplistic beauty are unbeatable. If you are looking for some ‘me or us’ time, Kottayam is littered with several secluded, yet calming haunts where you can let sit back and simply enjoy the view.<br> 
+				</p>
+				<h4 style="color: white;">2)Elaveezha Poonchira</h4>
+				<img src="https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2016/02/Elaveezha-Poonchira-in-Kottayam.jpg">
+				<p style="color: white;">
+					Surrounded by three hills – Mankunnu, Kodayathoormala and Thonippara – Elaveezha Poonchira is a must see tourist place in Kottayam. Known for its magnificent views and lush greenery, Elaveezha Poonchira is dotted with exquisite waterfalls and secret alcoves. It is famous among trekkers for its terrain and is the perfect picnic spot, hardly an hour away from the main Kottayam town.
+					Location: Melukavu Village, Kottayam, Kerala<br>
+					Timings: NA<br> 
+				</p>
+				<h4 style="color: white;">3) Nadukani </h4>
+				<img src="https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2016/02/Nadukani-in-Kottayam.jpg">
+				<p style="color: white;">
+					Nadukani is one of the popular hill stations near Kottayam and is a major picnic spot. Nadukani offers wonderful views of the landscapes covered in dense forests, Nilgiri mountains, Muvattupuzha river, mystical valleys, and colorful flora. One of the popular tourist places near Kottayam, Nadukani has emerged as the new go-to spot for youngsters and couples looking for refuge. Take buses or private taxis to reach Nadukani from Kottayam. At the end, the trip would be truly worth it.<br>
+					Entry fee: none. 
+				</p>
+				<h4 style="color: white;">4) Kottathavalam </h4>
+				<img src="https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2016/02/Kottathavalam-near-Kottayam.jpg">
+				<p style="color: white;">
+					Located about 70 km from Kottayam, Kottathavalam is a popular hill station and a favorite among those looking for a long drive through the mountaineous roads. The terrain has rock cut trails, passing through which you may feel a sense of exhilaration and thrill. Many small and huge temples adorn the pathways.
+
+					In fact just a little detour takes you to a 1,000 year old temple. Kottathavalam is a perfect mixture of attractions like roads perfect for a long drive, beauty, spirituality and thrill to draw you in. This is one of the top tourist places in Kottayam for one day trip.
+				</p>
+				<h4 style="color: white;">5) Kumarakom Bird Sanctuary</h4>
+				<img src="https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2016/02/Kumarakom-Bird-Sanctuary.jpg">
+				<p style="color: white;">
+					Located on the banks of the Vembanad Lake, Kumarakom Bird Sanctuary is a paradise for bird lovers. It’s a perfect place to relax in the midst of nature. Apart from a number of colorful species of migratory birds, there are several small animals like deers and does spread across. The natural habitat is also delightful to the soul; its serenity and refreshing aura is an attraction to many.<br>
+					Location: Kavanattinkara, Kumarakom, Kerala 686563<br>
+					Timings: All days of the week from 6.30 am to 5 pm<br>
+					Entry fee: INR 50 per head for Indians and INR 100 per head for non-Indians. 
+				</p>	
+				<a href="index.html" style="color: white; background-color: black; display: block; text-align: center;">Back</a>
+</body>
+</html>
